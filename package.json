@@ -1,0 +1,19 @@
+{
+  "name": "rnn",
+  "version": "1.0.0",
+  "description": "RecurrentJS is a Javascript library that implements:",
+  "main": "rnn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acmesds/recurrentjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acmesds/recurrentjs/issues"
+  },
+  "homepage": "https://github.com/acmesds/recurrentjs#readme"
+}
